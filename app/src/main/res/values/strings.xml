@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Solitaire</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="game">Game</string>
+    <string name="new_game">New</string>
+    <string name="load">Load</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="settings">Settings</string>
+    <string name="no_saved_game">There is no saved game to load.</string>
+    <string name="saved_games">Saved Games:</string>
+    <string name="button_remove">Remove</string>
+    <string name="button_select_all">Select All</string>
+    <string name="button_deselect_all">Deselect All</string>
+    <string name="sound">Sound</string>
+    <string name="play_sound">Play Sound</string>
+    <string name="draw">Draw</string>
+    <string name="draw_one">Draw One</string>
+    <string name="draw_three">Draw Three</string>
+    <string name="appearance">Appearance</string>
+    <string name="blue">Blue Background with Green Cards</string>
+    <string name="green">Green Background with Blue Cards</string>
+    <string name="save_game">Save Game</string>
+    <string name="load_game">Load Game</string>
+    <string name="delete_game">Delete Game</string>
+    <string name="save_game_msg">Please input a name to save your game:</string>
+    <string name="load_game_msg">Please select a game to load:</string>
+    <string name="file_exists">File %1$s exists, do you want to overwrite it?</string>
+    <string name="invalid_game">Game %1$s is empty or corrupted. Do you want to remove it?</string>
+    <string name="sure_to_load_game">Your current game will be lost, are you sure to continue?</string>
+    <string name="no_saved_games">(No Saved Games)</string>
+    
+</resources>

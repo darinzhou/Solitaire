@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zzhou200/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Darin/source/android-games/Solitaire/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_e271a18151a3caf05d8c1393642c4bf8a7871e27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zzhou200/.android/build-cache/72c60deec97583cc3bdcc5577c97b137e1ebfa09/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Darin/source/android-games/Solitaire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1baba163bc67cbfbde09cd98750b2ae84e25dffa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Darin/source/android-games/Solitaire/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Darin/source/android-games/Solitaire/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2988eb05dd9388eeaaf22b5fe5978786517539b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Darin/source/android-games/Solitaire/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="54a1c3b9faaa41a29687bdaf787988fe8937a38a">
+        <dex dex="/Darin/source/android-games/Solitaire/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_22c1aab800427e1d3320daa54e1fd41eaebc63fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zzhou200/.android/build-cache/cff667e83bbb2e1b14c6f336f454710e0ddde41d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Darin/source/android-games/Solitaire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ef25aeb5c735649190ac8005dcbb9887deabb11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zzhou200/.android/build-cache/2efe4a1c590b08892340fda0f5a4bd3794852874/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Darin/source/android-games/Solitaire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e36b9ff7757a52e78886c993347d22b79ad486d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zzhou200/.android/build-cache/2b4a9c6b5fa6814a5febdb018379254036389955/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Darin/source/android-games/Solitaire/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e71ed4d3382b71997ddda43085f2e8b6194a9a51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zzhou200/.android/build-cache/cff667e83bbb2e1b14c6f336f454710e0ddde41d/output/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Darin/source/android-games/Solitaire/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_2d4e1125f5f37d5b24a83637b06502da3dcb14bc/classes.dex" />
+    </item>
+
+</items>
